@@ -1,0 +1,7 @@
+[submodule "themes/alpha-church"]
+	path = themes/alpha-church
+	url = git@github.com:papeleriakon-tiki/alpha-church.git
+[submodule "papeleriakon-tiki.github.io"]
+	path = papeleriakon-tiki.github.io
+	url = git@github.com:papeleriakon-tiki/papeleriakon-tiki.github.io
+	branch = master
