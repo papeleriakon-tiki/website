@@ -5,3 +5,7 @@
 #cta {
   background: #0F0F50;
 }
+
+#cta input[type=submit] {
+  color: #0F0F50;
+}
