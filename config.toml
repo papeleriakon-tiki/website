@@ -19,8 +19,6 @@ unsafe = true
 
 [taxonomies]
   tag = "tags"
-  preacher = "preachers"
-  series = "series"
 
 #This theme can generate a multi-level menu.
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
@@ -75,18 +73,6 @@ unsafe = true
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
-
-  [params.podcast]
-    title = "Listen to Alpha Church"
-    subtitle = ""
-    summary = "Alpha-Church sermons, talks, messages—podcasted."
-    email = "test@example.com"
-    copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
-    image = "img/podcast-cover.jpg"
-    category = "Religion & Spirituality"
-    sub_category = "Christianity"
-    iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
-    feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
 
   [params.map]
     service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
