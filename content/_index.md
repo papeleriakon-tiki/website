@@ -28,7 +28,7 @@ Horario 08:45 - 14:00 y 17:00 - 20:30 en [Plaza Ramón Martinez Local 7D (Marbel
     accent = "1"
     title = "Material Escolar"
     text = "Todo lo que usted necesite para estudiar"
-#    url = "/material"
+    url = "/material"
 
   [[feature_icons.tile]]
     icon = "fa-book"
@@ -36,7 +36,7 @@ Horario 08:45 - 14:00 y 17:00 - 20:30 en [Plaza Ramón Martinez Local 7D (Marbel
     accent = "2"
     title = "Libros"
     text = "Libros, comics y libros de texto"
-#    url = "/libros"
+    url = "/libros"
 
 
   [[feature_icons.tile]]
@@ -45,7 +45,7 @@ Horario 08:45 - 14:00 y 17:00 - 20:30 en [Plaza Ramón Martinez Local 7D (Marbel
     accent = "5"
     title = "Bellas Artes"
     text = "Materiales de Bellas Artes y Manualidades"
-#    url = "/bellas-artes"
+    url = "/bellas-artes"
 
   [[feature_icons.tile]]
     icon = "fa-briefcase"

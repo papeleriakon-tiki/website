@@ -1,7 +1,7 @@
 ---
 title: "Acerca de"
 subtitle: "Papelería KON-TIKI fundada en 2003"
-date: 2018-04-30T10:05:49+10:00
+date: 2020-04-01T10:00:00+01:00
 images: ["img/img5.jpg"]
 draft: false
 ---
