@@ -57,8 +57,8 @@ unsafe = true
 
 # Paramaters for the whole site
 [params]
-  title = "Papelería KON-TIKI"
-  subtitle = "Desde 2003 al servicio de artistas, lectores y estudiantes de Marbella"
+  title = "KON-TIKI"
+  subtitle = "Papelería y Bellas Artes"
   author = "Guillermo Caracuel"
   languageCode = "es" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
 
