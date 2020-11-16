@@ -94,9 +94,9 @@ unsafe = true
     #
     #If you use netlify, you'll need to set the confirm_page value (or else users will see a generic netlify response)
     #If you use formspree, you'll need to set your formspree email address.
-    service = "netlify"
+    service = "formspree"
     confirm_page = "/contact_thanks"
-    # formspree_email=""
+    formspree_email="f/mjvpoend"
 
 
     [params.footer]

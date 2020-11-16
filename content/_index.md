@@ -13,8 +13,8 @@
 [services]
   title = "Dónde estamos"
   text = """
-Telefóno: 952 77 04 50 | Email: info@papeleriakon-tiki.com  
-Horario 08:45 - 14:00 y 17:00 - 20:30 en [Plaza Ramón Martinez Local 7D (Marbella)](https://www.openstreetmap.org/#map=19/36.51004/-4.87895)."""
+Teléfono: 952 77 04 50 | Email: info@papeleriakon-tiki.com  
+Horario 09:00 - 14:00 y 17:00 - 20:30 en [Plaza Ramón Martinez Local 7D (Marbella)](https://www.openstreetmap.org/#map=19/36.51004/-4.87895)."""
   map_location = "Plaza Ramón Martinez Local 7D Marbella"
 
 [feature_icons]
