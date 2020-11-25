@@ -11,8 +11,16 @@ Development
 hugo server --watch
 ```
 
-Upload to development env or production:
+Upload to development env:
 ```
 hugo
 ```
-Then upload files under papeleriakon-tiki.github.io byt commiting chnages to development or uploading files to production
+Then upload files under papeleriakon-tiki.github.io by commiting chnages to development or uploading files to production
+
+
+###### Production
+```
+hugo --config config_prod.toml
+````
+
+New files to upload will be find under folder *papeleriakon-tiki.com*
