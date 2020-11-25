@@ -1,0 +1,19 @@
+/* CSS Document */
+.menuBl {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; font-variant: normal; text-transform: uppercase; color: #FFFFFF; text-decoration: none}
+.pie {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; font-variant: normal; color: #333333; text-decoration: none; text-transform: none}
+a.pie:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; font-variant: normal; color: #cd080d; text-decoration: none }
+.azul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000066;
+	text-transform: none;
+	line-height: 20px;
+	text-decoration: none;
+}
+.negro { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; font-variant: normal; color: #000000; text-decoration: none ; text-align: justify; text-transform: none}
+a.negro:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; font-variant: normal; color: #999999; text-decoration: underline; text-align: justify }
+.negron { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; font-variant: normal; color: #000000; text-decoration: none ; text-transform: none}
+.forTex { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; font-variant: normal; color: #000000; text-decoration: none ; text-align: justify ; text-transform: none}
+.forTit { FONT-SIZE: 10px; COLOR: #cd080d; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-style: normal; font-variant: normal; text-transform: uppercase; border-bottom: 1px solid #e5e5e5; TEXT-DECORATION: none ; font-weight: bold}
