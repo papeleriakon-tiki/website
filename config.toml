@@ -1,8 +1,8 @@
-baseURL = "https://papeleriakon-tiki.github.io/"
+baseURL = "https://papeleriakon-tiki.com/"
 languageCode = "es-es"
 title = "Papelería KON-TIKI"
 theme = "alpha-church"
-publishDir = "papeleriakon-tiki.github.io"
+publishDir = "papeleriakon-tiki.com"
 
 rssLimit = 5
 paginate = 4
